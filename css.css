@@ -1,0 +1,18 @@
+h1{	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 100;
+	padding-bottom: 8px;
+	text-align: center;
+}
+h2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 200%;
+	font-weight: 200;
+	text-align: center;
+	}
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
